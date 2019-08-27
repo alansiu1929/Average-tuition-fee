@@ -1,4 +1,4 @@
-# US_avg_tuition
+# US Average Tuition Fee
 This repository is to investigate average tuition fee of different US states
 
 ### import data file
